@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- For temporary files in cache directory -->
+    <cache-path
+        name="temp"
+        path="." />
+    
+    <!-- For files in app's external files directory -->
+    <external-files-path
+        name="pdfs"
+        path="." />
+    
+    <!-- For files in app's internal files directory -->
+    <files-path
+        name="internal_pdfs"
+        path="." />
+</paths>
